@@ -2,14 +2,12 @@
 
 int main(void)
 {
-    int num1;
+    int num = 3;
 
-    printf("Input number: ");
-    scanf("%d", &num1);
+    num = num << 3;
+    num = num >> 2;
 
-    int num2 = ~num1 +1;
-
-    printf("%d", num2);
+    printf("%d", num);
 
 return 0;
 }
