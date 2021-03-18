@@ -1,5 +1,4 @@
-# Hello World
+# Hello Language C World
 
-First repository system
-
-안녕! 세상아
+Study
+* [Enthusiastic_C_programming](./Enthusiastic_C_programming)
