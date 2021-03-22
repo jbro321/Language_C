@@ -2,4 +2,4 @@
 
 Study
 * [Enthusiastic_C_programming](./Enthusiastic_C_programming)
-* [CodeUp](./CodeUp)
+* [CodeUp](./CodeUp/README.md)
